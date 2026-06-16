@@ -1,17 +1,16 @@
-# 🎓 University Management System
+# University Management System
 
 **Data Structures (DS) Project**
-FAST-NUCES Chiniot-Faisalabad
 
 ---
 
-## 📌 Description
+## Description
 
 A comprehensive **University Management System** built in C++ using core Data Structures concepts. Manages students, courses, faculty, and academic records through an interactive console interface.
 
 ---
 
-## 🧱 Data Structures Used
+## Data Structures Used
 
 - Linked Lists — student and course records
 - Stacks / Queues — scheduling and waitlists
@@ -20,7 +19,7 @@ A comprehensive **University Management System** built in C++ using core Data St
 
 ---
 
-## ✨ Features
+## Features
 
 - Student registration and record management
 - Course enrollment and management
@@ -30,7 +29,7 @@ A comprehensive **University Management System** built in C++ using core Data St
 
 ---
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 ### Requirements
 - g++ compiler or any C++ IDE (Visual Studio, Code::Blocks, Dev-C++)
@@ -49,17 +48,7 @@ Or open the `.cpp` file in your IDE and press Build & Run.
 
 ---
 
-## 📁 Project Structure
-
-```
-University-Management-DS/
-├── Uni_managment_system_DS_Project.cpp    # Full source code
-└── .gitignore
-```
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 - C++
 - Standard Template Library (STL)
@@ -67,6 +56,6 @@ University-Management-DS/
 
 ---
 
-## 📄 License
+## License
 
 MIT License
